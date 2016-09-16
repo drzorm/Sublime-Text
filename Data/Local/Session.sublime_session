@@ -1,0 +1,3973 @@
+{
+	"folder_history":
+	[
+		"/C/Program Files/Sublime Text 3",
+		"/F/works/estate-web",
+		"/C/Users/Administrator/Desktop/zq",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp",
+		"/C/Users/Administrator/Desktop/loading",
+		"/F/works/自平台/广告联盟V1.0/03_开发阶段/adsense/branch/adsense-web/src/main/webapp",
+		"/F/works/MicroCity-web",
+		"/C/Users/Administrator/Desktop/MicroCity-web",
+		"/F/works/MicroCity/microcity-dataview/src/main/resources/public",
+		"/C/Users/Administrator/Desktop/adsense_0820",
+		"/F/works/MicroCity/microcity-dataview",
+		"/C/Users/Administrator/Desktop/fiddler",
+		"/F/works/estate",
+		"/F/works/estate-lottery",
+		"/F/works/lottery",
+		"/F/test/typescript_started",
+		"/C/Users/Administrator/Desktop/waterfall-master",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-talent-1.0.0/community-web/src/main/webapp",
+		"/C/Users/Administrator/Desktop/canvs2image",
+		"/C/Users/Administrator/Desktop/game",
+		"/F/works/shopping-web/src/main",
+		"/C/Users/Administrator/Desktop/mall",
+		"/D/Documents/Downloads/heatmap.js-master",
+		"/C/Users/Administrator/Desktop/scan",
+		"/F/works/communityHomeOrdering/hongordering/WeiLeManagerWeb/src/main/webapp",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-1.3.1-lottory/community-web/src/main/webapp",
+		"/F/works/community-lottery",
+		"/F/works/wl-webapp/webapp",
+		"/F/works/wl-manager",
+		"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/weile-community",
+		"/F/works/adminlte-manager",
+		"/F/works/weile_master/WeiLeManagerWeb/src/main/webapp",
+		"/F/works/weile_master",
+		"/F/github_project/circles-master",
+		"/F/github_project/Snap.svg-0.4.1",
+		"/C/Users/Administrator/Desktop/eChart_test",
+		"/D/Documents/Downloads/Bootstrap-Image-Gallery-3.4.2/Bootstrap-Image-Gallery",
+		"/D/Documents/Downloads/Bootstrap-Image-Gallery-3.4.2/Bootstrap-Image-Gallery-3.4.2",
+		"/F/works/WeiLeManagerWeb/src/main/webapp/weile/vstore_mobi/weile-wstore",
+		"/F/works/WeiLeManagerWeb/src/main/webapp",
+		"/D/Program Files/Sublime Text 3",
+		"/F/works/weile-gold/src",
+		"/F/works/weile-community",
+		"/F/works/estate-01/estate-web/src/main/webapp",
+		"/F/works/weile-adsense",
+		"/F/works/weile-shequ",
+		"/F/works/WeiLeManagerWeb/src/main/webapp/weile/vstore_mobi/weile-wstore/public",
+		"/F/test/react-15.0.1",
+		"/F/github_project/react-weui-master",
+		"/F/test/React_started",
+		"/F/works/weile-card",
+		"/F/github_project/jQuery-master-JsAaron",
+		"/F/works/WeiLeManagerWeb_WangPu/weile/vstore_mobi/weile-wstore/public",
+		"/C/Users/Administrator/Desktop/wx",
+		"/F/works/estate-01/estate-web/src/main/java/com/ydh/estate",
+		"/F/works/estate-01/estate-web/src/main/webapp/frozenui/estate",
+		"/C/Users/Administrator/Desktop/mobileView",
+		"/F/works/communityHomeOrderin/src/main/webapp",
+		"/C/Users/Administrator/Desktop/communityHomeOrdering/hongordering/WeiLeManagerWeb/src/main/webapp",
+		"/F/test/webpack_started",
+		"/F/test/webpack-test",
+		"/F/works/WeiLeManagerWeb",
+		"/C/Users/Administrator/Desktop/basic",
+		"/C/Users/Administrator/Desktop/estate",
+		"/F/github_project/SUI-Mobile-dev",
+		"/F/test/sui_test",
+		"/F/github_project/todo-master",
+		"/F/works/weile-leshang-web",
+		"/F/works/weile-ad",
+		"/F/works/weile-wp",
+		"/F/works/WeiLeManagerWeb_WangPu",
+		"/F/works/weile-leshang-web/public",
+		"/F/weile_/test",
+		"/F/reqjs",
+		"/F/shequ",
+		"/C/Users/Administrator/Desktop/i.v89.com",
+		"/F/weile_/public_",
+		"/F/weile_/public",
+		"/F/v1.0",
+		"/C/Users/Administrator/Desktop/v1.0",
+		"/D/Documents/Downloads/v1.0",
+		"/F/works/weile_test",
+		"/F/works/物业/01编码/community-web/src/main/webapp",
+		"/F/works/i.v89.com",
+		"/F/AdminLTE-2.3.0",
+		"/F/works/weile_branch_2.9.4",
+		"/F/works/weile-share",
+		"/C/Users/Administrator/Desktop/vst/vstore_mobi",
+		"/F/works/hongordering/WeiLeManagerWeb/src/main/webapp",
+		"/C/Users/Administrator/Desktop/q-1",
+		"/F/test/iis/testhd",
+		"/C/Users/Administrator/Desktop/testhd",
+		"/F/works/weile_branch_wangpu",
+		"/F/works/weile_branch_wangpu/WeiLeManager",
+		"/F/test/iis/jsdel",
+		"/F/test/iis",
+		"/F/test/express_test/myapp/public/cj",
+		"/C/Users/Administrator/Desktop/小区公告",
+		"/F/works/weile_branch_wangpu/WeiLeManagerWeb/src/main/webapp/weile/vstore_mobi/weile-wstore/public",
+		"/F/works/WeiLeManagerWeb/src/main/webapp/test/clf",
+		"/F/works/prei.v89.com",
+		"/F/test/weile-wstore/public",
+		"/F/works/weile_branch_wangpu/WeiLeManagerWeb/src/main/webapp",
+		"/F/test/weile-wstore",
+		"/G/test/react-demos-master/myDemo",
+		"/G/test/weile-wstore",
+		"/F/works/weile-wstore",
+		"/G/test/weile-wstore/public",
+		"/F/test/weile-four",
+		"/F/test/express_test/myapp",
+		"/F/test/react-demos-master",
+		"/F/test/react-product-table-demo",
+		"/F/works/WeiLeManagerWeb_HJ",
+		"/F/works/WeiLeManagerWeb_HJ/src/main/webapp",
+		"/G/blur",
+		"/F/works/fans_t",
+		"/F/works/fans",
+		"/F/test/express_test",
+		"/F/works/WeiLeManagerWeb_weile_branch_2.9.3/src/main/webapp",
+		"/G/WeiLeManagerWeb_/src/main/webapp",
+		"/G/WeiLeManagerWeb_",
+		"/F/works/Test/seajs-examples-master",
+		"/F/works",
+		"/F/works/weile-coin",
+		"/G/Exercises_drzorm/CSS3",
+		"/G/Exercises_drzorm/gruntjs_test",
+		"/G/Exercises_drzorm/grunt"
+	],
+	"last_version": 3103,
+	"last_window_id": 328,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 576.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"getM",
+						"getMinutes〔function〕"
+					],
+					[
+						"get",
+						"getHours〔function〕"
+					],
+					[
+						"par",
+						"padding-right"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"mb",
+						"mb10	(base.css)"
+					],
+					[
+						"dis",
+						"disabled	(base.css)"
+					],
+					[
+						"in",
+						"inherit"
+					],
+					[
+						"remo",
+						"removeClass	.removeClass()"
+					],
+					[
+						"date",
+						"datetime"
+					],
+					[
+						"rep",
+						"repair	(add_repairs.jsp)"
+					],
+					[
+						"re",
+						"repairs"
+					],
+					[
+						"fonts",
+						"font-size"
+					],
+					[
+						"fons",
+						"font-size"
+					],
+					[
+						"parent",
+						"parents	.parents()"
+					],
+					[
+						"e",
+						"evaluate"
+					],
+					[
+						"COL",
+						"color"
+					],
+					[
+						"com",
+						"complaint	(add_complaint.html)"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"lab",
+						"label	<label> with <input>"
+					],
+					[
+						"line",
+						"line-height"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"backc",
+						"background-color"
+					],
+					[
+						"mt",
+						"mt8	(base.css)"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"tran",
+						"transparent"
+					],
+					[
+						"t",
+						"transparent"
+					],
+					[
+						"content",
+						"div.content"
+					],
+					[
+						"pre",
+						"preload"
+					],
+					[
+						"object",
+						"object-fit"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"video",
+						"videoHeight"
+					],
+					[
+						"videoW",
+						"videoWidth"
+					],
+					[
+						"border",
+						"border-box"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"out",
+						"outline"
+					],
+					[
+						"width",
+						"width: 〔property〕"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"inser",
+						"insertBefore	.insertBefore()"
+					],
+					[
+						"vid",
+						"videoEnd"
+					],
+					[
+						"replace",
+						"replaceWith	.replaceWith()"
+					],
+					[
+						"app",
+						"append	.append()"
+					],
+					[
+						"stop",
+						"stopPropagation=function(){this	(preloadjs.cmd.min.js)"
+					],
+					[
+						"load",
+						"loading"
+					],
+					[
+						"url",
+						"url()"
+					],
+					[
+						"remoce",
+						"remove〔function〕"
+					],
+					[
+						"page",
+						"pageSize"
+					],
+					[
+						"st",
+						"status"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"loa",
+						"load	.load()"
+					],
+					[
+						"crea",
+						"createElement〔function〕"
+					],
+					[
+						"script",
+						"script	Tag"
+					],
+					[
+						"tranf",
+						"transform"
+					],
+					[
+						"select",
+						"select2	(sea.config.js)"
+					],
+					[
+						"this",
+						"thisMonthAddOrderCount"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"b",
+						"bold"
+					],
+					[
+						"tr",
+						"transition"
+					],
+					[
+						"ch",
+						"checked"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"today",
+						"todayParkingNum"
+					],
+					[
+						"tod",
+						"todayParkingNum"
+					],
+					[
+						"month",
+						"monthNum	(index.js)"
+					],
+					[
+						"mo",
+						"month	(index.js)"
+					],
+					[
+						"yest",
+						"yesterdayUsersNum"
+					],
+					[
+						"to",
+						"today	(parkingFeeAnalysis.js)"
+					],
+					[
+						"ini",
+						"init	(shopOperationsAnalysis.js)"
+					],
+					[
+						"ech",
+						"echarts"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"style",
+						"style	Tag"
+					],
+					[
+						"item",
+						"itemName"
+					],
+					[
+						"conti",
+						"continue〔keyword〕"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"obj",
+						"object-fit"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"parse",
+						"parseFloat〔function〕"
+					],
+					[
+						"pars",
+						"parseFloat〔function〕"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"eq",
+						"equipmentStatistics	(userClass0.json)"
+					],
+					[
+						"mic",
+						"microcity"
+					],
+					[
+						"clear",
+						"clearfix	(usersAnalysis.html)"
+					],
+					[
+						"toL",
+						"toLocaleDateString()	Date"
+					],
+					[
+						"ra",
+						"ratio"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"data",
+						"dataformat"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"dele",
+						"delete〔keyword〕"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass()"
+					],
+					[
+						"txt",
+						"text"
+					],
+					[
+						"ratio",
+						"ratioTo"
+					],
+					[
+						"co",
+						"comparison"
+					],
+					[
+						"swich",
+						"switch〔keyword〕"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"m",
+						"middle"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"min",
+						"min-width"
+					],
+					[
+						"th",
+						"thead	<thead>"
+					],
+					[
+						"box-s",
+						"box-shadow"
+					],
+					[
+						"isN",
+						"isNaN〔function〕"
+					],
+					[
+						"a",
+						"a	<a>"
+					],
+					[
+						"index",
+						"indexOf	(smUtil.js)"
+					],
+					[
+						"em",
+						"empty	(smUtil.js)"
+					],
+					[
+						"top",
+						"topic_detail"
+					],
+					[
+						"scr",
+						"script	Tag"
+					],
+					[
+						"topic",
+						"topic_list	(topic_list.html)"
+					],
+					[
+						"pla",
+						"placeholder	(update.html)"
+					],
+					[
+						"支付",
+						"支付详情	(fail.html)"
+					],
+					[
+						"sim",
+						"simpleTip"
+					],
+					[
+						"is",
+						"isReload"
+					],
+					[
+						"ha",
+						"hasClass〔function〕"
+					],
+					[
+						"isW",
+						"isWechat"
+					],
+					[
+						"str",
+						"stringify"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"im",
+						"important	(buyCashCoupon.html)"
+					],
+					[
+						"win",
+						"window===window	(index.js)"
+					],
+					[
+						"href",
+						"hrefType"
+					],
+					[
+						"parseI",
+						"parseInt〔function〕"
+					],
+					[
+						"has",
+						"hashchange"
+					],
+					[
+						"hre",
+						"href"
+					],
+					[
+						"ref",
+						"referrer"
+					],
+					[
+						"city",
+						"cityId"
+					],
+					[
+						"u",
+						"util"
+					],
+					[
+						"h",
+						"hidden"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "utf",
+				"selected_items":
+				[
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"jsp",
+						"Set Syntax: Java Server Page (JSP)"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"insall",
+						"Package Control: Install Package"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"css3",
+						"Set Syntax: CSS3"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"jsoN",
+						"Set Syntax: JSON"
+					],
+					[
+						"j",
+						"JSHint"
+					],
+					[
+						"jsa",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"sj",
+						"Set Syntax: Jade"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"emmet",
+						"Emmet: Split\\Join Tag"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"tmpl",
+						"Tmpl: Create html"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: ist",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package→删除插件"
+					],
+					[
+						"istall",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"22-8",
+					"88/40",
+					"33/67",
+					"4/6",
+					"176/276",
+					"60/40",
+					"30/40",
+					"28/40",
+					"61/40",
+					"122/2",
+					"70/40",
+					"42/40",
+					"28/40",
+					"20/40",
+					"28/40",
+					"98-70",
+					"16/40",
+					"56/40",
+					"56/",
+					"56/40",
+					"28/40",
+					"110/40",
+					"308/40",
+					"96/1080",
+					"244/1920",
+					"400/1080",
+					"950/1920",
+					"100/1080",
+					"125/1920",
+					"1920/125",
+					"1500*1080/1920",
+					"1500/1920",
+					"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/add_complaint.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/repair_pay.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/repair_pay.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/repairs/add_repairs.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/topic/topic_publish.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_publish.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/repairs/add_repairs.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_publish.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/add_complaint1.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/get1.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/repairs/repairs_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/complaint_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/list1.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/pay/repair_pay.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/get.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/pay/bill/list.js",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime Text 3/Data/Packages/Terminal/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/pay/arrearage/list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/arrearage/list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/get.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/pay/paymentconfirminfo/create.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/base.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/pay/arrearage/get.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/connect_failed.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/common_pay_success.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/repairs/user_repair_order_detail.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/pay_success.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/toChargeAccount.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/arrearage/get.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/paymentconfirminfo/create.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/arrearage/list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/arrearage/get.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/paymentconfirminfo/create.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/bill/detail.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/pay/bill/detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/authorization_list1.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/repairs/dispatch_assistant.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/address/address_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/authorization_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/outer_authorization.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/pay/repair_pay_success.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/authorization_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/announcement/announcement_detail.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_publish.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/complaint/add_complaint.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/user/repairs/user_repair_order_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/user/repairs/repairs_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/repairs/repairs_evaluate.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/complaint_evaluate.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/user/repairs/repairs_evaluate.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/repairs/user_repair_order_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/repairs/add_repairs.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/complaint_detail.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/repairs/repairs_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/complaint/complaint_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/repairs/dispatch_repair_order_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/repairs/report/manager_report_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/complaint_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/complaint/complaint_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/add_complaint.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/complaint/complaint_evaluate.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/repairs/complaint_evaluate.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/user/user_center.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/user/talent/my_service_confirm.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/user/talent/my_service_confirm.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/complaint_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/demo/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/announcement/announcement_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/authorization/authorization_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/topic/topic_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/announcement/announcement_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/announcement/announcement_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/apply_detail.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/add_authorization.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/outer_authorization.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/authorization/add_authorization.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/authorization/apply_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/apply_authorization.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/announcement/announcement_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/talent/talent_detail.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/add_complaint - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/fonts/iconfont.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/authorization_list - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/outer_authorization_result.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/list.text",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/login.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/login.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/estate/estate_error.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_management.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_join.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/hardware/device_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/authorization/outer_authorization.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/complaint/complaint_detail - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/require.config.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/apply_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/authorization/apply_authorization.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/add_authorization - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/add_authorization.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/announcement/announcement_list - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/announcement/announcement_detail - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/js/show-dialog/show-dialog.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/js/select-community/select-community.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/apply_authorization - 副本.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/authorization/apply_authorization.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/common/smUtil.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/announcement/announcement_list.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_join.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/oauth_failed.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/wechat_code.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/miaodou_open_door_error.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/hardware/device_list.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/activity/activity_detail.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/activity/activity_detail.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/stylesheets/views/activity/activity_detail.css",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/content/views/topic/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/branches/community-ui/community-web/src/main/webapp/javascripts/views/topic/topic_list.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets\\views\\user",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets\\views\\user\\talent",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets\\views\\repairs",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets\\views\\hardware",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets\\views\\activity",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\branches\\community-ui\\community-web\\src\\main\\webapp\\stylesheets\\views\\topic",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\microcity",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\microcity",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\AdminLTE",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\microcity",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\AdminLTE-2.3.3\\pages",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules\\",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules\\selfplatform",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\trunk\\community\\community-web\\src\\main\\webapp",
+					"F:\\works\\weile-community",
+					"<project>",
+					"F:\\works\\weile-community\\content\\views",
+					"F:\\works\\weile-community\\content\\views,F:\\works\\weile-community\\content\\demo",
+					"F:\\works\\weile-community\\views,F:\\works\\weile-community\\demo",
+					"F:\\works\\weile-community\\views",
+					"F:\\works\\weile-community",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public\\view",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\weile-card\\public",
+					"F:\\works\\weile-card",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\view",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\css",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\weile-card\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\weile-card",
+					"<open folders>",
+					"F:\\works\\WeiLeManagerWeb\\",
+					"F:\\works\\WeiLeManagerWeb\\src\\",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb_weile_branch_2.9.3\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb_weile_branch_2.9.3\\src\\main\\webapp",
+					"G:\\WeiLeManagerWeb_\\src\\main\\webapp\\include",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main",
+					"F:\\works\\WeiLeManagerWeb",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js\\modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"timeArr",
+					"dateArr",
+					"8",
+					"date.",
+					"Date",
+					"date",
+					"ctrl+shift+t",
+					"detail.html",
+					"detail",
+					"div class=\"item-content item-link\"",
+					"class=\"item-content",
+					"item-title",
+					"no-border",
+					"bill-detail.",
+					"div class=\"item-content\">",
+					" || 1",
+					"1.55",
+					"=\"wl",
+					"<span",
+					"item-content item-link",
+					"c-block-title",
+					"no-border",
+					"disabled",
+					"item-link",
+					":before",
+					"icon-font-check",
+					"icon-form-checkbox",
+					"label.label-checkbox",
+					"icon icon-form-checkbox",
+					"my-radio",
+					"石头",
+					"content-block-title",
+					"$15",
+					"item-after",
+					"ent item-link",
+					"ass=\"item-inner\">",
+					"-2016.01.30",
+					"\n        border-radius: 50%;",
+					".icon-font",
+					"icon-font",
+					"<div class=\"list-block media-list c-media-list  mt8\">",
+					"icon-coustom",
+					"查看历史账单",
+					"dateFormat",
+					"ease",
+					".content-block ",
+					" class=\"item-link\"",
+					"to-",
+					".content-wrap",
+					"block-title",
+					" title=\"\"",
+					"投诉",
+					"complaint",
+					"complaint-type",
+					"房屋",
+					"lor-lightblue\">待处理</span>",
+					"ass=\"item-after color-gray-9",
+					"icon-font-wldelete",
+					"item-title\">房",
+					"item-title",
+					"coustom-butt",
+					"custom-button",
+					"-button",
+					"cutom-button",
+					"cstom-button",
+					"custom-button",
+					"c-buttom",
+					"-buttom",
+					"cstom-buttom",
+					"custom-buttom",
+					"ss=\"button\">评价",
+					"button",
+					"标题",
+					"item-title",
+					"a",
+					"publish",
+					"block",
+					"lish-content-wr",
+					"publish-conte",
+					"ublish-content-wra",
+					"publish-content-wrap",
+					"publish",
+					"     ",
+					"popup-about",
+					"/a",
+					"a href=\"#\" ",
+					"imageListWrap",
+					"uploadInputWrap",
+					"follow-up-list",
+					"item-media",
+					"block-title",
+					"content-title",
+					"\"javascript:void(0);\"",
+					"content",
+					"\">申请",
+					"info-list",
+					"upload-input-wrap",
+					"e617",
+					"e61f",
+					".icon-",
+					"uploadImage",
+					"i class=\"\"",
+					"col-30",
+					" col-30",
+					"value=\"",
+					"房屋",
+					" class=\"item-title-row\"",
+					"div class=\"item-title-row\">",
+					"row",
+					"<div class=\"item-title-row\">",
+					" data-id=\"<-%=participation.id%->\"",
+					"<-%=participation.telephone%->",
+					".media-list",
+					"media-list",
+					".list-block .item-inner",
+					".list-block.media-list",
+					"coustom-button",
+					"title label",
+					"申请人",
+					"<li>",
+					"                        <li class=\"item-content\">\n                            <div class=\"item-inner\">",
+					"item-text",
+					"item-input",
+					"c-modal",
+					"no-border",
+					"border-bottom",
+					"border-bottom-s",
+					"border-bottom"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"#00bb9c",
+					"#43515a",
+					"#00bb9c",
+					"\"持平\" : ratio > 0 ? \"大于\" : \"小于\";",
+					"--",
+					"shopTradingChart",
+					"usersTrafficChart",
+					"    <meta charset=\"utf-8\" />\n    <meta http-equiv=X-UA-Compatible content=\"IE=edge,chrome=1\">\n    <meta content=\"always\" name=\"referrer\">\n    <meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\">\n    <meta http-equiv=\"pragma\" content=\"no-cache\">\n    <meta http-equiv=\"cache-control\" content=\"no-cache\">\n    <meta http-equiv=\"expires\" content=\"0\">",
+					"    <meta http-equiv=X-UA-Compatible content=\"IE=edge,chrome=1\">\n    <meta content=\"always\" name=\"referrer\">",
+					"    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"renderer\" content=\"webkit\" />\n    <meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\">",
+					"advExpensesChart",
+					"userPreferencesChart",
+					"advTrafficChart",
+					"UserPreferencesChart",
+					"//cdn.bootcss.com/ionicons/2.0.1/css/ionicons.min.css",
+					"//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css",
+					"        $('#dataTable').dataTable({\n            \"autoWidth\": false,\n            \"info\": false,\n            \"lengthChange\": false,\n            \"searching\": false,\n            \"data\": dataSet,\n            \"columns\": dataColumns\n        });",
+					"    // 当前时间段初始化\n    $daterange.daterangepicker({\n        locale: {\n            format: 'YYYY-MM-DD'\n        }\n    }, daterangeCallback);\n    function daterangeCallback(start, end, label) {\n        $fromDate.val(start.format('YYYY-MM-DD'));\n        $toDate.val(end.format('YYYY-MM-DD')).trigger('change');\n        // 对比时间段设置限制\n        var days = moment(end).diff(moment(start), 'days');\n        $ratioDaterange.daterangepicker({\n            dateLimit: {\n                days: days\n            },\n            locale: {\n                format: 'YYYY-MM-DD'\n            }\n        }, ratioDaterangeCallback);\n    }\n\n    // 对比时间段初始化\n    $ratioDaterange.daterangepicker({\n        dateLimit: {\n            days: 0\n        },\n        locale: {\n            format: 'YYYY-MM-DD'\n        }\n    }, ratioDaterangeCallback);\n\n    function ratioDaterangeCallback(start, end, label) {\n        var isComparison = $comparison.prop('checked');\n        $ratioFrom.val(start.format('YYYY-MM-DD'));\n        $ratioTo.val(end.format('YYYY-MM-DD'));\n        if (isComparison) $ratioTo.trigger('change');\n    }\n\n    // 今日-0/昨日-1/最近7天-2/最近30天-3 切换\n    $('input[name=\"date\"]').on('change', function() {\n\n        var $this = $(this);\n        var type = $this.val();\n        var dateArr = getDaterange(type);\n        $comparison.prop('checked', false);\n        $daterange.daterangepicker({\n            locale: {\n                format: 'YYYY-MM-DD'\n            },\n            startDate: dateArr[0],\n            endDate: dateArr[1]\n        }, daterangeCallback);\n        daterangeCallback(dateArr[0], dateArr[1]);\n\n        $ratioDaterange.daterangepicker({\n            dateLimit: {\n                days: [0,0,7,30][type]\n            },\n            locale: {\n                format: 'YYYY-MM-DD'\n            },\n            startDate: dateArr[0],\n            endDate: dateArr[1]\n        }, ratioDaterangeCallback);\n        ratioDaterangeCallback(dateArr[0], dateArr[1]);\n    });",
+					"    //POST(URL('/dataview/newmemberRatioStatistics/DATAVIEW'), {}, function(o) {",
+					"    POST(URL('/dataview/newmemberRatioStatistics/DATAVIEW'), {}, function(o) {",
+					"        POST(URL('/platform/newmemberStatistics'), {\n            \"fromDate\": fromDate,\n            \"toDate\": toDate,\n            \"ratioFrom\": ratioFrom,\n            \"ratioTo\": ratioTo,\n            \"type\": type,\n            \"source\": \"\"\n        }, function(o) {",
+					"<%@ page contentType=\"text/html;charset=UTF-8\" language=\"java\" %>",
+					"/images/",
+					"/javascripts/",
+					"/stylesheets/",
+					"topic",
+					"/js/views/",
+					"/css/views/",
+					"$(document).on('click', '.photo-view', function(e) {",
+					"        //图片浏览器\n        $imageListWrap.on('click', function(e) {\n            e.preventDefault();\n            e.stopPropagation();\n            var $target = $(e.target);\n            if ($target.hasClass('remove')) return;\n            if ($target.hasClass('image-upload-button')) return;\n            var $this = $(this);\n            var $img = $this.find('img');\n            var currentSlide = $img.index($target);\n            var imgList = [];\n            $img.each(function(index, el) {\n                imgList.push(el.src);\n            });\n            $.photoBrowser({\n                photos: imgList,\n                initialSlide: currentSlide,\n                type: 'popup',\n                ofText: '/'\n            }).open();\n        }).on('click', '.remove', function(e) {\n            e.preventDefault();\n            e.stopPropagation();\n            var $currentLi = $(this).closest('li');\n            $currentLi.addClass('remove');\n            setTimeout(function(){\n                $currentLi.remove();\n                $.toast('删除成功')\n            }, 350);\n        });",
+					"js?v=1.1.1.0\"></script>",
+					"<script src=\"pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					".js?v=1.1.0.9\"></script>",
+					"<script src=\"../../../../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../../../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../../../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					".js?v=1.1.0.9\"></script>",
+					".container .layer{background:#FFF;margin-top: 10px}",
+					".container .layer{background:#FFF;margin-top: 20px}",
+					".js?v=1.1.0.8\"></script>",
+					".js?v=1.1.0.7\"></script>",
+					".js?v=1.1.0.6\"></script>",
+					".js?v=1.1.0.5\"></script>",
+					"    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\" />\n    <meta name=\"format-detection\" content=\"telephone=no\" />",
+					".js?v=1.1.0.4\"></script>",
+					".js?v=1.1.0.3\"></script>",
+					".js?v=1.1.0.2\"></script>",
+					".js?v=1.1.0.1\"></script>",
+					".js?v=1.1.0\"></script>",
+					"js/basic/basic.js?t=123\"></script>",
+					"'user_' + merchantId",
+					"'user' + merchantId",
+					"券包",
+					"	",
+					"	|	",
+					".container .header .back,.container .header .pay-back{float:left;display: block;height:48px;line-height: 48px;padding:0 10px;} ",
+					"        .container .layer .layer-body li.address-wrap .icon-wrap{float:right;margin-right: -30px;}\n        .container .store-info{ margin-bottom: 72px;}",
+					"登录超时,请重新登录",
+					"\"http://wl.v89.com:8080/WeiLe/webapp/css/images/",
+					"商品",
+					"vstoreTabsService",
+					"vstoreTabsTheme",
+					"vstoreTabsBanner",
+					"vstoreTabsService",
+					"vstoreTabsTheme",
+					"vstoreTabsBanner",
+					"bannerUploadWrap",
+					"ipreview",
+					"simpleTip",
+					"iprogress",
+					"\"请输入广告内容,最多输入30个字\"",
+					"30",
+					"adv-detail-images-",
+					"$",
+					"contentType",
+					"shareCost",
+					"readCost",
+					"shareCost",
+					"readCost",
+					"Cost",
+					"",
+					"adv-detail-images",
+					"advDetail",
+					"advDetailPic",
+					"$advDetailPic",
+					"advDetailPic",
+					"$advMainPic",
+					"advMainPic",
+					"oldAdvMainPic",
+					"",
+					"webuploader-pick",
+					"phone-templet-static",
+					"",
+					"newFormatImageUrl",
+					"Detail",
+					"\"",
+					"",
+					"newAdvObjStr",
+					"col-xs-",
+					"pageEdition",
+					"data-page=\"",
+					"",
+					"advObjStr",
+					"content-type",
+					".trigger('keyup')",
+					"oldRelateCardWrap",
+					"oldRelateProductWrap",
+					"oldRelateAdWrap",
+					"old-relate-ad-wrap",
+					"relateAdWrap",
+					"relate-ad-wrap",
+					"templet-phone",
+					"Page",
+					"page",
+					"Page",
+					"rankData",
+					"10",
+					"em",
+					"福州外语外贸学院",
+					"src=\"images",
+					"css",
+					"src=\"js/",
+					"",
+					"福州外语外贸学报编辑部",
+					"TMS"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 71.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 94.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"javascripts/views/repairs/add_repairs",
+						"javascripts\\views\\repairs\\add_repairs.js"
+					],
+					[
+						"stylesheets/views/topic/topic_publish.css",
+						"stylesheets\\views\\topic\\topic_publish.css"
+					],
+					[
+						"javascripts/views/topic/topic_publish",
+						"javascripts\\views\\topic\\topic_publish.js"
+					],
+					[
+						"javascripts/views/pay/bill",
+						"javascripts\\views\\pay\\bill\\list.js"
+					],
+					[
+						"login",
+						"content\\login.html"
+					],
+					[
+						"base",
+						"stylesheets\\base.css"
+					],
+					[
+						"demo",
+						"fonts\\demo.html"
+					],
+					[
+						"activity_pub",
+						"javascripts\\views\\activity\\activity_publish.js"
+					],
+					[
+						"javascripts/views/complaint/add_complaint",
+						"javascripts\\views\\complaint\\add_complaint.js"
+					],
+					[
+						"javascripts/views/complaint/complaint_detail",
+						"javascripts\\views\\complaint\\complaint_detail.js"
+					],
+					[
+						"javascripts/views/complaint/complaint_list",
+						"javascripts\\views\\complaint\\complaint_list.js"
+					],
+					[
+						"javascripts/views/complaint/complaint_evaluate",
+						"javascripts\\views\\complaint\\complaint_evaluate.js"
+					],
+					[
+						"javascripts/views/user/repairs/repairs_evaluate",
+						"javascripts\\views\\user\\repairs\\repairs_evaluate.js"
+					],
+					[
+						"stylesheets/views/user/talent/my_service_confirm.css",
+						"stylesheets\\views\\user\\talent\\my_service_confirm.css"
+					],
+					[
+						"javascripts/views/authorization/authorization_list",
+						"javascripts\\views\\authorization\\authorization_list.js"
+					],
+					[
+						"vtopic_d",
+						"content\\views\\topic\\topic_detail.jsp"
+					],
+					[
+						"detail.jsp",
+						"content\\topic\\topic_detail.jsp"
+					],
+					[
+						"javascripts/views/authorization/add_authorization",
+						"javascripts\\views\\authorization\\add_authorization.js"
+					],
+					[
+						"javascripts/views/announcement/announcement_detail",
+						"javascripts\\views\\announcement\\announcement_detail.js"
+					],
+					[
+						"views/user/talent/my_service_confirm.html",
+						"content\\views\\user\\talent\\my_service_confirm.html"
+					],
+					[
+						"avascripts/views/topic/topic_publish",
+						"javascripts\\views\\topic\\topic_publish.js"
+					],
+					[
+						"",
+						"content\\complaint\\add_complaint.html"
+					],
+					[
+						"publish",
+						"content\\views\\topic\\topic_publish.jsp"
+					],
+					[
+						"javascripts/views/login",
+						"javascripts\\views\\login.js"
+					],
+					[
+						"activity_",
+						"content\\views\\activity\\activity_join.jsp"
+					],
+					[
+						"config",
+						"javascripts\\require.config.js"
+					],
+					[
+						"publis",
+						"content\\views\\topic\\topic_publish.jsp"
+					],
+					[
+						"javascripts/views/authorization/apply_authorization",
+						"javascripts\\views\\authorization\\apply_authorization.js"
+					],
+					[
+						"viewslon",
+						"javascripts\\views\\login.js"
+					],
+					[
+						"js/show-dialog/show-dialog.js",
+						"js\\show-dialog\\show-dialog.js"
+					],
+					[
+						"topic_publis",
+						"content\\views\\topic\\topic_publish.jsp"
+					],
+					[
+						"js/select-community/select-community.js",
+						"js\\select-community\\select-community.js"
+					],
+					[
+						"topic_publish",
+						"content\\views\\topic\\topic_publish.jsp"
+					],
+					[
+						"smu",
+						"javascripts\\common\\smUtil.js"
+					],
+					[
+						"stylesheets/views/hardware/device_list.css",
+						"stylesheets\\views\\hardware\\device_list.css"
+					],
+					[
+						"javascripts/views/activity/activity_detail",
+						"javascripts\\views\\activity\\activity_detail.js"
+					],
+					[
+						"tylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"monit",
+						"content\\views\\monitor\\monitor.html"
+					],
+					[
+						"stylesheets/views/activity/activity_join.css",
+						"stylesheets\\views\\activity\\activity_join.css"
+					],
+					[
+						"viewsactivityjoin",
+						"javascripts\\views\\activity\\activity_join.js"
+					],
+					[
+						"javascripts/views/topic/topic_list",
+						"javascripts\\views\\topic\\topic_list.js"
+					],
+					[
+						"stylesheets/views/activity/activity_detail.css",
+						"stylesheets\\views\\activity\\activity_detail.css"
+					],
+					[
+						"viewsactivityde",
+						"content\\views\\activity\\activity_detail.jsp"
+					],
+					[
+						"viewsactivity_detail",
+						"content\\views\\activity\\activity_detail.jsp"
+					],
+					[
+						"views/activity/activity_publish.jsp",
+						"content\\views\\activity\\activity_publish.jsp"
+					],
+					[
+						"views/activity/activity_list.jsp",
+						"content\\views\\activity\\activity_list.jsp"
+					],
+					[
+						"activity_list.jsp",
+						"content\\views\\activity\\activity_list.jsp"
+					],
+					[
+						"viewstopicpu",
+						"content\\views\\topic\\topic_publish.jsp"
+					],
+					[
+						"viewstopic",
+						"content\\views\\topic\\topic_list.jsp"
+					],
+					[
+						"viewstopiclistjsp",
+						"content\\views\\topic\\topic_list.jsp"
+					],
+					[
+						"javascripts/views/user/user_center",
+						"javascripts\\views\\user\\user_center.js"
+					],
+					[
+						"viewuser",
+						"content\\views\\user\\user_center.jsp"
+					],
+					[
+						"re",
+						"javascripts\\require.config.js"
+					],
+					[
+						"user",
+						"content\\views\\user\\user_center.jsp"
+					],
+					[
+						"sim",
+						"js\\plugins\\simple-tip.js"
+					],
+					[
+						"simple",
+						"js\\plugins\\simple-tip.js"
+					],
+					[
+						"modules/usersoverview",
+						"js\\modules\\usersOverview.js"
+					],
+					[
+						"userso",
+						"js\\modules\\usersOverview.js"
+					],
+					[
+						"common/storage",
+						"js\\common\\storage.js"
+					],
+					[
+						"nav",
+						"js\\include\\nav.js"
+					],
+					[
+						"class",
+						"js\\data\\nav\\userClass0.json"
+					],
+					[
+						"index.js",
+						"js\\modules\\index.js"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"sea",
+						"js\\sea.config.js"
+					],
+					[
+						"selfplatform/shopoperationsanalysis",
+						"microcity\\selfplatform\\shopOperationsAnalysis.html"
+					],
+					[
+						"active",
+						"microcity\\activeUsersAnalysis.html"
+					],
+					[
+						"activeusersanalysis",
+						"js\\modules\\activeUsersAnalysis.js"
+					],
+					[
+						"newusersanalysis",
+						"js\\modules\\newUsersAnalysis.js"
+					],
+					[
+						"index.html",
+						"index.html"
+					],
+					[
+						"include/footer.html",
+						"include\\footer.html"
+					],
+					[
+						"include/header.html",
+						"include\\header.html"
+					],
+					[
+						"comm",
+						"js\\common\\common.js"
+					],
+					[
+						"include/nav",
+						"js\\include\\nav.js"
+					],
+					[
+						"include/nav.html",
+						"include\\nav.html"
+					],
+					[
+						"commindex",
+						"microcity\\community\\index.html"
+					],
+					[
+						"selfplatform/index",
+						"js\\modules\\selfplatform\\index.js"
+					],
+					[
+						"community/ownerstatistics",
+						"js\\modules\\community\\ownerStatistics.js"
+					],
+					[
+						"community/complaintsstatistics",
+						"js\\modules\\community\\complaintsStatistics.js"
+					],
+					[
+						"cindex.js",
+						"js\\modules\\community\\index.js"
+					],
+					[
+						"cindex",
+						"microcity\\community\\index.html"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"cripts/views/activity/activity_list",
+						"javascripts\\views\\activity\\activity_list.js"
+					],
+					[
+						"topic",
+						"content\\views\\topic\\topic_list.jsp"
+					],
+					[
+						"req",
+						"javascripts\\require.config.js"
+					],
+					[
+						"confgi",
+						"javascripts\\common\\config.js"
+					],
+					[
+						"javascripts/require.config.js",
+						"javascripts\\require.config.js"
+					],
+					[
+						"indexs",
+						"microcity\\estate\\indexStatistics.html"
+					],
+					[
+						"selfplatform/index.",
+						"js\\modules\\selfplatform\\index.js"
+					],
+					[
+						"adalliance/newusersanalysis.html",
+						"microcity\\adAlliance\\newUsersAnalysis.html"
+					],
+					[
+						"adsense/newusersanalysis",
+						"js\\modules\\adsense\\newUsersAnalysis.js"
+					],
+					[
+						"adsense/newusersanalysis.html",
+						"microcity\\adsense\\newUsersAnalysis.html"
+					],
+					[
+						"adsense/newusersanalysis.js",
+						"js\\modules\\adsense\\newUsersAnalysis.js"
+					],
+					[
+						"boo",
+						"css\\bootstrap\\bootstrap.css"
+					],
+					[
+						"selfplatform/usersanalysis",
+						"js\\modules\\selfplatform\\usersAnalysis.js"
+					],
+					[
+						"modules/selfplatform/index",
+						"js\\modules\\selfplatform\\index.js"
+					],
+					[
+						"microcity/selfplatform/index.html",
+						"microcity\\selfplatform\\index.html"
+					],
+					[
+						"mallcjs",
+						"js\\modules\\mallcenter\\index.js"
+					],
+					[
+						"modules/adsense/index",
+						"js\\modules\\adsense\\index.js"
+					],
+					[
+						"adsindex",
+						"microcity\\adsense\\index.html"
+					],
+					[
+						"mallcenter/parkingfeeanalysis",
+						"js\\modules\\mallcenter\\parkingFeeAnalysis.js"
+					],
+					[
+						"mallcenter/trafficanalysis",
+						"js\\modules\\mallcenter\\trafficAnalysis.js"
+					],
+					[
+						"mallcenter/registeredusersanalysis",
+						"js\\modules\\mallcenter\\registeredUsersAnalysis.js"
+					],
+					[
+						"mallcenter/trafficdensitystatistics",
+						"js\\modules\\mallcenter\\trafficDensityStatistics.js"
+					],
+					[
+						"modules/mallcenter/mall",
+						"js\\modules\\mallcenter\\mall.js"
+					],
+					[
+						"modules/mallcenter/registeredusersanalysis",
+						"js\\modules\\mallcenter\\registeredUsersAnalysis.js"
+					],
+					[
+						"congi",
+						"js\\common\\config.js"
+					],
+					[
+						"modules/mallcenter/index",
+						"js\\modules\\mallcenter\\index.js"
+					],
+					[
+						"mallcenter/index.html",
+						"microcity\\mallcenter\\index.html"
+					],
+					[
+						"ionicons",
+						"css\\ionicons\\ionicons.css"
+					],
+					[
+						"nav.",
+						"include\\nav.html"
+					],
+					[
+						"cl",
+						"js\\data\\nav\\userClass0.json"
+					],
+					[
+						"pages/ui/icons.html",
+						"AdminLTE\\pages\\UI\\icons.html"
+					],
+					[
+						"foo",
+						"include\\footer.html"
+					],
+					[
+						"microcity/selfplatform/trafficanalysis.html",
+						"microcity\\selfplatform\\trafficAnalysis.html"
+					],
+					[
+						"newusersanalysis.",
+						"js\\modules\\newUsersAnalysis.js"
+					],
+					[
+						"modules/selfplatform/trafficanalysis",
+						"js\\modules\\selfplatform\\trafficAnalysis.js"
+					],
+					[
+						"selfplatform/trafficanalysis.html",
+						"microcity\\selfplatform\\trafficAnalysis.html"
+					],
+					[
+						"shop",
+						"microcity\\selfplatform\\shopOperationsAnalysis.html"
+					],
+					[
+						"app",
+						"js\\plugins\\adminlte\\app.cmd.js"
+					],
+					[
+						"selfplatform/newusersstatistics.html",
+						"microcity\\selfplatform\\newUsersStatistics.html"
+					],
+					[
+						"modules/activeusersanalysis",
+						"js\\modules\\activeUsersAnalysis.js"
+					],
+					[
+						"modules/newusersanalysis",
+						"js\\modules\\newUsersAnalysis.js"
+					],
+					[
+						"microcity/newusersanalysis.html",
+						"microcity\\newUsersAnalysis.html"
+					],
+					[
+						"microcity/activeusersanalysis.html",
+						"microcity\\activeUsersAnalysis.html"
+					],
+					[
+						"se",
+						"js\\sea.config.js"
+					],
+					[
+						"shopoperationsanalysis",
+						"microcity\\selfplatform\\shopOperationsAnalysis.html"
+					],
+					[
+						"selfplatform/trafficanalysis",
+						"js\\modules\\selfplatform\\trafficAnalysis.js"
+					],
+					[
+						"heatmap",
+						"js\\plugins\\heatmap\\heatmap.cmd.min.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 303.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1370.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"times",
+						"times"
+					],
+					[
+						"dis",
+						"disabled	(index.css)"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"pri",
+						"prize"
+					],
+					[
+						"priz",
+						"prizeId"
+					],
+					[
+						"add",
+						"addClass	.addClass()"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"clog",
+						"console.log()"
+					],
+					[
+						"ro",
+						"random〔function〕"
+					],
+					[
+						"script",
+						"script	Tag"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"ex",
+						"extraClass"
+					],
+					[
+						"sho",
+						"showErrorTips"
+					],
+					[
+						"js",
+						"jsApiList"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"def",
+						"defaultPrevented	Event"
+					],
+					[
+						"请输入",
+						"请输入姓名	(index.html)"
+					],
+					[
+						"toa",
+						"toast"
+					],
+					[
+						"lose",
+						"loseCallback"
+					],
+					[
+						"border-t",
+						"border-top-right-radius"
+					],
+					[
+						"rgba",
+						"rgba()"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"lin",
+						"line-height"
+					],
+					[
+						"pro",
+						"prompt〔function〕"
+					],
+					[
+						"chan",
+						"chance"
+					],
+					[
+						"aw",
+						"award"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"inputt",
+						"inputt	input - text"
+					],
+					[
+						"im",
+						"images	(index.css)"
+					],
+					[
+						"par",
+						"parseInt〔function〕"
+					],
+					[
+						"this",
+						"thisMonthAddOrderCount"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"b",
+						"bold"
+					],
+					[
+						"tr",
+						"transition"
+					],
+					[
+						"ch",
+						"checked"
+					],
+					[
+						"t",
+						"transform"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"today",
+						"todayParkingNum"
+					],
+					[
+						"tod",
+						"todayParkingNum"
+					],
+					[
+						"month",
+						"monthNum	(index.js)"
+					],
+					[
+						"mo",
+						"month	(index.js)"
+					],
+					[
+						"yest",
+						"yesterdayUsersNum"
+					],
+					[
+						"to",
+						"today	(parkingFeeAnalysis.js)"
+					],
+					[
+						"ini",
+						"init	(shopOperationsAnalysis.js)"
+					],
+					[
+						"ech",
+						"echarts"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"style",
+						"style	Tag"
+					],
+					[
+						"item",
+						"itemName"
+					],
+					[
+						"conti",
+						"continue〔keyword〕"
+					],
+					[
+						"selec",
+						"selected"
+					],
+					[
+						"obj",
+						"object-fit"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"parse",
+						"parseFloat〔function〕"
+					],
+					[
+						"pars",
+						"parseFloat〔function〕"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"rep",
+						"repairmanStatistics	(userClass0.json)"
+					],
+					[
+						"com",
+						"complaintsStatistics	(userClass0.json)"
+					],
+					[
+						"eq",
+						"equipmentStatistics	(userClass0.json)"
+					],
+					[
+						"mic",
+						"microcity"
+					],
+					[
+						"clear",
+						"clearfix	(usersAnalysis.html)"
+					],
+					[
+						"in",
+						"initial"
+					],
+					[
+						"toL",
+						"toLocaleDateString()	Date"
+					],
+					[
+						"ra",
+						"ratio"
+					],
+					[
+						"padd",
+						"padding-bottom"
+					],
+					[
+						"data",
+						"dataformat"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"dele",
+						"delete〔keyword〕"
+					],
+					[
+						"remov",
+						"removeClass	.removeClass()"
+					],
+					[
+						"txt",
+						"text"
+					],
+					[
+						"ratio",
+						"ratioTo"
+					],
+					[
+						"co",
+						"comparison"
+					],
+					[
+						"swich",
+						"switch〔keyword〕"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"m",
+						"middle"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"lab",
+						"label	<label>"
+					],
+					[
+						"col",
+						"color"
+					],
+					[
+						"th",
+						"thead	<thead>"
+					],
+					[
+						"box-s",
+						"box-shadow"
+					],
+					[
+						"isN",
+						"isNaN〔function〕"
+					],
+					[
+						"a",
+						"a	<a>"
+					],
+					[
+						"index",
+						"indexOf	(smUtil.js)"
+					],
+					[
+						"em",
+						"empty	(smUtil.js)"
+					],
+					[
+						"top",
+						"topic_detail"
+					],
+					[
+						"scr",
+						"script	Tag"
+					],
+					[
+						"topic",
+						"topic_list	(topic_list.html)"
+					],
+					[
+						"pla",
+						"placeholder	(update.html)"
+					],
+					[
+						"remo",
+						"removeClass〔function〕"
+					],
+					[
+						"支付",
+						"支付详情	(fail.html)"
+					],
+					[
+						"sim",
+						"simpleTip"
+					],
+					[
+						"is",
+						"isReload"
+					],
+					[
+						"ha",
+						"hasClass〔function〕"
+					],
+					[
+						"isW",
+						"isWechat"
+					],
+					[
+						"str",
+						"stringify"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"win",
+						"window===window	(index.js)"
+					],
+					[
+						"href",
+						"hrefType"
+					],
+					[
+						"parseI",
+						"parseInt〔function〕"
+					],
+					[
+						"hre",
+						"href"
+					],
+					[
+						"ref",
+						"referrer"
+					],
+					[
+						"st",
+						"stringify"
+					],
+					[
+						"city",
+						"cityId"
+					],
+					[
+						"u",
+						"util"
+					],
+					[
+						"h",
+						"hidden"
+					],
+					[
+						"set",
+						"setTimeout〔function〕"
+					],
+					[
+						"display",
+						"display: 〔property〕"
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"change",
+						"changeStyle	(manager.js)"
+					],
+					[
+						"session",
+						"sessionStorage	(list.js)"
+					],
+					[
+						"expo",
+						"expose	(list.js)"
+					],
+					[
+						"unde",
+						"undefined"
+					],
+					[
+						"po",
+						"position"
+					],
+					[
+						"products",
+						"productList	(list.js)"
+					],
+					[
+						"mouse",
+						"mouseleave	.mouseleave()"
+					],
+					[
+						"mousr",
+						"mouseenter"
+					],
+					[
+						"pr",
+						"prop〔function〕"
+					],
+					[
+						"border",
+						"border"
+					],
+					[
+						"bannerdata",
+						"bannerDataVal"
+					],
+					[
+						"mou",
+						"mouseover	.mouseover()"
+					],
+					[
+						"ms",
+						"msgForm"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Program Files/Sublime Text 3/.gitattributes",
+					"settings":
+					{
+						"buffer_size": 378,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Nodejs/Nodejs.sublime-build",
+							""
+						],
+						[
+							"Packages/JSHint/JSHint.sublime-build",
+							""
+						],
+						[
+							"Packages/YUI Compressor/YUI Compressor.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/YUI Compressor/YUI Compressor.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 196.0,
+				"last_filter": "gicommit",
+				"selected_items":
+				[
+					[
+						"gicommit",
+						"Git: Commit"
+					],
+					[
+						"gitadd",
+						"Git: Add Current File"
+					],
+					[
+						"gita",
+						"Git: Add All"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"jsoN",
+						"Set Syntax: JSON"
+					],
+					[
+						"j",
+						"JSHint"
+					],
+					[
+						"jsa",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"sj",
+						"Set Syntax: Jade"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"emmet",
+						"Emmet: Split\\Join Tag"
+					],
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"tmpl",
+						"Tmpl: Create html"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: ist",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"Package Control: remove",
+						"Package Control: Remove Package→删除插件"
+					],
+					[
+						"istall",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 120.0,
+				"history":
+				[
+					"git",
+					"596/40",
+					"596/80",
+					"2.6625/2",
+					"2.625/2",
+					"213/80",
+					"181/80",
+					"213/40",
+					"181/40",
+					"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Program Files/Sublime Text 3"
+			],
+			"file_history":
+			[
+				"/C/Program Files/cmder/vendor/init.bat",
+				"/C/Program Files/Sublime Text 3/README.md",
+				"/C/Program Files/Sublime Text 3/52ffa0a7-1116-4264-a904-9cb6afd2dc60.dmp",
+				"/C/Program Files/Sublime Text 3/ReadMe.txt",
+				"/C/Program Files/Sublime Text 3/.gitignore",
+				"/C/Program Files/Sublime Text 3/Data/Packages/YUI Compressor/YUI Compressor.sublime-build",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/code/git_test/README.md",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/README.md",
+				"/C/Program Files/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/scripts/run.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/YUI Compressor/package-metadata.json",
+				"/D/code/git_test/.git/config",
+				"/C/Program Files/WinRAR/rarreg.key",
+				"/D/用户目录/我的文档/a.js",
+				"/D/用户目录/我的文档/a.min.js",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Terminal.sublime-settings",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Terminal/Terminal.sublime-settings",
+				"/F/works/estate/frozenui/estate/choujiang/index.jsp",
+				"/F/works/estate/frozenui/estate/choujiang/javascripts/common/smUtil.js",
+				"/F/works/estate/frozenui/estate/choujiang/data/getWinnerRecords.json",
+				"/F/works/estate/frozenui/estate/choujiang/data/lottery.json",
+				"/F/works/estate/js/modules/testate/wdzl.js",
+				"/F/works/estate/frozenui/estate/choujiang/javascripts/views/lottery/index.js",
+				"/F/works/estate/frozenui/estate/choujiang/stylesheets/views/lottery/index.css",
+				"/F/works/estate/frozenui/estate/choujiang/index.html",
+				"/F/works/estate/frozenui/estate/choujiang/javascripts/require.config.js",
+				"/F/works/estate/js/modules/testate/youHuiXinXi.js",
+				"/F/works/estate/js/common/request.js",
+				"/F/works/estate/frozenui/estate/choujiang/data/sendtelno.json",
+				"/F/works/estate/frozenui/estate/choujiang/data/checktelno.json",
+				"/F/works/estate/frozenui/estate/choujiang/data/isLotteryInfoCompleted.json",
+				"/F/works/estate/frozenui/estate/choujiang/stylesheets/base.css",
+				"/F/works/estate/frozenui/estate/choujiang/javascripts/libs/zepto/zepto.amd.js",
+				"/F/works/estate/frozenui/estate/choujiang/date.html",
+				"/F/works/estate/frozenui/estate/choujiang/data/saveWinnerInfo.json",
+				"/F/works/estate/frozenui/estate/choujiang/data/information.json",
+				"/F/works/estate/frozenui/estate/choujiang/javascripts/views/lottery/index_bck.js",
+				"/F/works/estate/choujiang/stylesheets/base.css",
+				"/F/works/estate/choujiang/data/getWinnerRecords.json",
+				"/F/works/estate/choujiang/data/lottery.json",
+				"/F/works/estate/choujiang/data/information.json",
+				"/F/works/estate/choujiang/javascripts/common/smUtil.js",
+				"/F/works/estate/choujiang/javascripts/require.config.js",
+				"/F/works/estate/choujiang/index.html",
+				"/F/works/estate/choujiang/stylesheets/views/lottery/index.css",
+				"/F/works/estate/choujiang/javascripts/views/lottery/index.js",
+				"/D/Program Files/Sublime Text 3/Data/Packages/YUI Compressor/YUI Compressor.sublime-build",
+				"/F/works/estate/choujiang/javascripts/views/lottery/index.min.js",
+				"/F/works/estate/js/common/config.js",
+				"/F/works/estate/choujiang/fonts/iconfont.css",
+				"/F/works/estate/choujiang/javascripts/common/smConfig.js",
+				"/F/works/estate/choujiang/javascripts/common/config.js",
+				"/F/works/estate/choujiang/javascripts/common/artTemplateConfig.js",
+				"/F/works/estate/choujiang/javascripts/require.js",
+				"/F/works/estate/choujiang/javascripts/require.min.js",
+				"/F/works/estate/choujiang/javascripts/views/index.js",
+				"/C/Users/Administrator/Desktop/select2/js/select2.js",
+				"/F/works/estate-lottery/javascripts/common/artTemplateConfig.js",
+				"/F/works/estate-lottery/javascripts/common/smUtil.js",
+				"/F/works/estate-lottery/stylesheets/base.css",
+				"/F/works/estate-lottery/index.html",
+				"/D/Documents/Downloads/jquery-3.1.0.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/monitorStatistics.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/complaintsStatistics.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/ownerStatistics.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/repairmanStatisticsDetail.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/workOrderStatisticsDetail.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/estate/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/mallcenter/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/newUsersAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/selfplatform/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/union/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/union/newUsersAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/accessDoorStatistics.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/activeUsersAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/community/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/community/index.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/index.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/css/microcity-base.css",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/base64/base64.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/union/newUsersAnalysis.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/union/advertisingConditions.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/union/adPerformanceAnalysis.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/data/nav/userClass0.json",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/union/userPropertiesAnalysis.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adsense/newUsersAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adAlliance/adPerformanceAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adAlliance/index.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adAlliance/newUsersAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adAlliance/userPropertiesAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adAlliance/advertisingConditions.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/adsense/newUsersAnalysis_xx.js",
+				"/D/Documents/Downloads/newUsersAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/estate/indexStatistics.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/css/bootstrap/bootstrap.css",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/estate/indexStatistics.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/union/adPerformanceAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/union/advertisingConditions.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/union/userPropertiesAnalysis.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/common/config.js",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp/fonts/demo.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp/content/wechat_code.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp/content/wechat_code.html",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp/content/views/topic/topic_list.jsp",
+				"/F/works/物业/shequ/03研发、上线、交付/服务端/01编码/trunk/community/community-web/src/main/webapp/javascripts/require.config.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/ueditor.all.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/ueditor.config.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/webuploader/webuploader.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/third-party/webuploader/webuploader.withoutimage.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/third-party/webuploader/webuploader.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/third-party/webuploader/webuploader.html5only.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/third-party/webuploader/webuploader.flashonly.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/ueditor/third-party/webuploader/webuploader.custom.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/jquery-validation/custom-validate-methods.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/jquery-validation/additional-methods.cmd.min.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/jquery-validation/additional-methods.cmd.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/plugins/echarts/echarts.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/mallcenter/index.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/selfplatform/index.html",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/AdminLTE/plugins/ckeditor/lang/zh-cn.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/microcity/union/index.html",
+				"/C/Users/Administrator/Desktop/GameLogic.js",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/selfplatform/usersAnalysis.js",
+				"/C/Users/Administrator/Desktop/mall/index.css",
+				"/C/Users/Administrator/Desktop/mall/base.css",
+				"/F/works/MicroCity/microcity-dataview/src/main/resources/public/js/modules/selfplatform/trafficAnalysis.js",
+				"/C/Users/Administrator/Desktop/mall/index.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 98.0,
+				"where_history":
+				[
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\microcity",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\microcity",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\AdminLTE",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\microcity",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\AdminLTE-2.3.3\\pages",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules\\",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules\\selfplatform",
+					"F:\\works\\MicroCity\\microcity-dataview\\src\\main\\resources\\public\\js\\modules",
+					"F:\\works\\物业\\shequ\\03研发、上线、交付\\服务端\\01编码\\trunk\\community\\community-web\\src\\main\\webapp",
+					"F:\\works\\weile-community",
+					"<project>",
+					"F:\\works\\weile-community\\content\\views",
+					"F:\\works\\weile-community\\content\\views,F:\\works\\weile-community\\content\\demo",
+					"F:\\works\\weile-community\\views,F:\\works\\weile-community\\demo",
+					"F:\\works\\weile-community\\views",
+					"F:\\works\\weile-community",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public\\view",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\WeiLeManagerWeb_WangPu\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\weile-card\\public",
+					"F:\\works\\weile-card",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\view",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\css",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp\\weile\\vstore_mobi\\weile-wstore\\public\\js",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\",
+					"F:\\works\\weile_branch_wangpu\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\weile-card\\public",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\weile-card",
+					"<open folders>",
+					"F:\\works\\WeiLeManagerWeb\\",
+					"F:\\works\\WeiLeManagerWeb\\src\\",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb_weile_branch_2.9.3\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb_weile_branch_2.9.3\\src\\main\\webapp",
+					"G:\\WeiLeManagerWeb_\\src\\main\\webapp\\include",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp",
+					"F:\\works\\WeiLeManagerWeb\\src\\main",
+					"F:\\works\\WeiLeManagerWeb",
+					"F:\\works\\WeiLeManagerWeb\\src\\main\\webapp\\js\\modules"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"var drzorm = 0;\nalert(drzorm);\nalert(drzorm);\nalert(drzorm);\nalert(drzorm);\nalert(drzorm);\nalert(drzorm);\n",
+					".json',",
+					"rl: '/estate-web/frozenui/est",
+					"rl: '/estate-web/lotte",
+					"url: '/estate-web/f",
+					"winCallback",
+					"Request.post(Request.url",
+					"startLotteryCallback",
+					"bandtel",
+					"list",
+					"obj",
+					"SimpleTip",
+					"alert",
+					"url: '/estate-web/",
+					"paramToSerialize",
+					"post",
+					"url: '/estate-web/frozenui/",
+					"rl: '/estate-web/frozenu",
+					"// url: '/estate-web/f",
+					"rl: '/estate-web/frozenui/e",
+					"url: '/estate-web/",
+					".json'",
+					"url: '/estate-web",
+					".json",
+					"anima",
+					"url: '/estate-web",
+					"\\",
+					"yum",
+					"');\n",
+					"closeModal",
+					"验证码获取失败",
+					".json'",
+					"url: '/estate-web/sms",
+					"updataCallback",
+					"guideCallback",
+					".json'",
+					"'/sms/",
+					"updataCallback",
+					"guideCallback",
+					".json',",
+					"name",
+					"props",
+					".item-row  .item-title",
+					"name",
+					"phone",
+					"updataCallback",
+					"url: '/estate-web/fr",
+					"ROOT",
+					"ESTATEROOT",
+					"ROOT",
+					"getWinnerRecords",
+					"tips_bg",
+					"lottery_bg",
+					"all ",
+					"all",
+					"lotteryList",
+					"lotteryWrap",
+					"lotteryButton",
+					"lotteryGift",
+					"updataCallback",
+					"lotteryButton",
+					"form",
+					"lotteryOption.prizeList",
+					"address",
+					"updataCallback",
+					"!",
+					"恭喜您!!!",
+					".66",
+					"元红包",
+					"ico: 'lottery",
+					"lotteryBtnWrap",
+					"fe403e",
+					"lotteryOption.prizeList",
+					"loseCallback",
+					".content-header",
+					"lotteryOption.prizeIdList",
+					"startNumber",
+					"prizeNum",
+					"cylinderNum",
+					"guideCallback",
+					"prizeNum",
+					"prizeIdList",
+					"startAnimation",
+					"lotteryOption.cylinderNum",
+					"apple-touch-icon",
+					"deg: ",
+					";\n                    tips:",
+					"max:",
+					"/estate-web/frozenui/estate/choujiang/images/lottery/",
+					"获得了88元红包",
+					"4000",
+					"prizeIdList",
+					"5000",
+					"10000",
+					"\\",
+					"4",
+					"winCallback",
+					"rotateLottery",
+					"startLottery",
+					" 8888 8888",
+					"span",
+					"<br>",
+					"p",
+					"https://placeholdit.imgix.net/~text?txtsize=12&bg=f2f2f2&txtclr=cccccc&txt=%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F&w=50&h=50&fm=png",
+					"https://cdn.tinypng.com/images/apple-touch-icon.png",
+					"span",
+					"/choujiang/images/wear.png",
+					"\\",
+					"iPad mini 4",
+					"iPad mini4",
+					"iPad mini 4",
+					"<p><p",
+					"</p></p>",
+					"<p",
+					".lottery-rule .block-content p",
+					"congratulation",
+					"lose",
+					"extraClass",
+					"tpl-lose",
+					"lose",
+					"loseCallback",
+					"request",
+					"winCallback",
+					".lottery-modal-content .content-title",
+					"extraClass",
+					"congratulation",
+					"modalTips",
+					"<strong class=\"color-gold\">"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"a21e12",
+					"coustom-button-submit",
+					"\"持平\" : ratio > 0 ? \"大于\" : \"小于\";",
+					"--",
+					"shopTradingChart",
+					"usersTrafficChart",
+					"    <meta charset=\"utf-8\" />\n    <meta http-equiv=X-UA-Compatible content=\"IE=edge,chrome=1\">\n    <meta content=\"always\" name=\"referrer\">\n    <meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\">\n    <meta http-equiv=\"pragma\" content=\"no-cache\">\n    <meta http-equiv=\"cache-control\" content=\"no-cache\">\n    <meta http-equiv=\"expires\" content=\"0\">",
+					"    <meta http-equiv=X-UA-Compatible content=\"IE=edge,chrome=1\">\n    <meta content=\"always\" name=\"referrer\">",
+					"    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n    <meta name=\"renderer\" content=\"webkit\" />\n    <meta content=\"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no\" name=\"viewport\">",
+					"advExpensesChart",
+					"userPreferencesChart",
+					"advTrafficChart",
+					"UserPreferencesChart",
+					"//cdn.bootcss.com/ionicons/2.0.1/css/ionicons.min.css",
+					"//cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css",
+					"        $('#dataTable').dataTable({\n            \"autoWidth\": false,\n            \"info\": false,\n            \"lengthChange\": false,\n            \"searching\": false,\n            \"data\": dataSet,\n            \"columns\": dataColumns\n        });",
+					"    // 当前时间段初始化\n    $daterange.daterangepicker({\n        locale: {\n            format: 'YYYY-MM-DD'\n        }\n    }, daterangeCallback);\n    function daterangeCallback(start, end, label) {\n        $fromDate.val(start.format('YYYY-MM-DD'));\n        $toDate.val(end.format('YYYY-MM-DD')).trigger('change');\n        // 对比时间段设置限制\n        var days = moment(end).diff(moment(start), 'days');\n        $ratioDaterange.daterangepicker({\n            dateLimit: {\n                days: days\n            },\n            locale: {\n                format: 'YYYY-MM-DD'\n            }\n        }, ratioDaterangeCallback);\n    }\n\n    // 对比时间段初始化\n    $ratioDaterange.daterangepicker({\n        dateLimit: {\n            days: 0\n        },\n        locale: {\n            format: 'YYYY-MM-DD'\n        }\n    }, ratioDaterangeCallback);\n\n    function ratioDaterangeCallback(start, end, label) {\n        var isComparison = $comparison.prop('checked');\n        $ratioFrom.val(start.format('YYYY-MM-DD'));\n        $ratioTo.val(end.format('YYYY-MM-DD'));\n        if (isComparison) $ratioTo.trigger('change');\n    }\n\n    // 今日-0/昨日-1/最近7天-2/最近30天-3 切换\n    $('input[name=\"date\"]').on('change', function() {\n\n        var $this = $(this);\n        var type = $this.val();\n        var dateArr = getDaterange(type);\n        $comparison.prop('checked', false);\n        $daterange.daterangepicker({\n            locale: {\n                format: 'YYYY-MM-DD'\n            },\n            startDate: dateArr[0],\n            endDate: dateArr[1]\n        }, daterangeCallback);\n        daterangeCallback(dateArr[0], dateArr[1]);\n\n        $ratioDaterange.daterangepicker({\n            dateLimit: {\n                days: [0,0,7,30][type]\n            },\n            locale: {\n                format: 'YYYY-MM-DD'\n            },\n            startDate: dateArr[0],\n            endDate: dateArr[1]\n        }, ratioDaterangeCallback);\n        ratioDaterangeCallback(dateArr[0], dateArr[1]);\n    });",
+					"    //POST(URL('/dataview/newmemberRatioStatistics/DATAVIEW'), {}, function(o) {",
+					"    POST(URL('/dataview/newmemberRatioStatistics/DATAVIEW'), {}, function(o) {",
+					"        POST(URL('/platform/newmemberStatistics'), {\n            \"fromDate\": fromDate,\n            \"toDate\": toDate,\n            \"ratioFrom\": ratioFrom,\n            \"ratioTo\": ratioTo,\n            \"type\": type,\n            \"source\": \"\"\n        }, function(o) {",
+					"<%@ page contentType=\"text/html;charset=UTF-8\" language=\"java\" %>",
+					"/images/",
+					"/javascripts/",
+					"/stylesheets/",
+					"topic",
+					"/js/views/",
+					"/css/views/",
+					"$(document).on('click', '.photo-view', function(e) {",
+					"        //图片浏览器\n        $imageListWrap.on('click', function(e) {\n            e.preventDefault();\n            e.stopPropagation();\n            var $target = $(e.target);\n            if ($target.hasClass('remove')) return;\n            if ($target.hasClass('image-upload-button')) return;\n            var $this = $(this);\n            var $img = $this.find('img');\n            var currentSlide = $img.index($target);\n            var imgList = [];\n            $img.each(function(index, el) {\n                imgList.push(el.src);\n            });\n            $.photoBrowser({\n                photos: imgList,\n                initialSlide: currentSlide,\n                type: 'popup',\n                ofText: '/'\n            }).open();\n        }).on('click', '.remove', function(e) {\n            e.preventDefault();\n            e.stopPropagation();\n            var $currentLi = $(this).closest('li');\n            $currentLi.addClass('remove');\n            setTimeout(function(){\n                $currentLi.remove();\n                $.toast('删除成功')\n            }, 350);\n        });",
+					"js?v=1.1.1.0\"></script>",
+					"<script src=\"pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					".js?v=1.1.0.9\"></script>",
+					"<script src=\"../../../../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../../../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../../../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					"<script src=\"../../pluging/jquery/dist/jquery.min.js?v=1.1.0.9\"></script>\n<script src=\"../../pluging/fastclick/fastclick.min.js?v=1.1.0.9\"></script>",
+					".js?v=1.1.0.9\"></script>",
+					".container .layer{background:#FFF;margin-top: 10px}",
+					".container .layer{background:#FFF;margin-top: 20px}",
+					".js?v=1.1.0.8\"></script>",
+					".js?v=1.1.0.7\"></script>",
+					".js?v=1.1.0.6\"></script>",
+					".js?v=1.1.0.5\"></script>",
+					"    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\" />\n    <meta name=\"format-detection\" content=\"telephone=no\" />",
+					".js?v=1.1.0.4\"></script>",
+					".js?v=1.1.0.3\"></script>",
+					".js?v=1.1.0.2\"></script>",
+					".js?v=1.1.0.1\"></script>",
+					".js?v=1.1.0\"></script>",
+					"js/basic/basic.js?t=123\"></script>",
+					"'user_' + merchantId",
+					"'user' + merchantId",
+					"券包",
+					"	",
+					"	|	",
+					".container .header .back,.container .header .pay-back{float:left;display: block;height:48px;line-height: 48px;padding:0 10px;} ",
+					"        .container .layer .layer-body li.address-wrap .icon-wrap{float:right;margin-right: -30px;}\n        .container .store-info{ margin-bottom: 72px;}",
+					"登录超时,请重新登录",
+					"\"http://wl.v89.com:8080/WeiLe/webapp/css/images/",
+					"商品",
+					"vstoreTabsService",
+					"vstoreTabsTheme",
+					"vstoreTabsBanner",
+					"vstoreTabsService",
+					"vstoreTabsTheme",
+					"vstoreTabsBanner",
+					"bannerUploadWrap",
+					"ipreview",
+					"simpleTip",
+					"iprogress",
+					"\"请输入广告内容,最多输入30个字\"",
+					"30",
+					"adv-detail-images-",
+					"$",
+					"contentType",
+					"shareCost",
+					"readCost",
+					"shareCost",
+					"readCost",
+					"Cost",
+					"",
+					"adv-detail-images",
+					"advDetail",
+					"advDetailPic",
+					"$advDetailPic",
+					"advDetailPic",
+					"$advMainPic",
+					"advMainPic",
+					"oldAdvMainPic",
+					"",
+					"webuploader-pick",
+					"phone-templet-static",
+					"",
+					"newFormatImageUrl",
+					"Detail",
+					"\"",
+					"",
+					"newAdvObjStr",
+					"col-xs-",
+					"pageEdition",
+					"data-page=\"",
+					"",
+					"advObjStr",
+					"content-type",
+					".trigger('keyup')",
+					"oldRelateCardWrap",
+					"oldRelateProductWrap",
+					"oldRelateAdWrap",
+					"old-relate-ad-wrap",
+					"relateAdWrap",
+					"relate-ad-wrap",
+					"templet-phone",
+					"Page",
+					"page",
+					"Page",
+					"rankData",
+					"10",
+					"em",
+					"福州外语外贸学院",
+					"src=\"images",
+					"css",
+					"src=\"js/",
+					"",
+					"福州外语外贸学报编辑部",
+					"TMS",
+					"\""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Program Files\\Sublime Text 3"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "",
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content"
+									],
+									"default_dir": "C:\\Program Files\\Sublime Text 3",
+									"is_init_dirty_state": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Program Files/Sublime Text 3/.gitattributes",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 378,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										378,
+										378
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 240.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 88.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 94.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,733,1,1,1365",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"wd",
+						"js\\modules\\testate\\wdzl.js"
+					],
+					[
+						"youhui",
+						"js\\modules\\testate\\youHuiXinXi.js"
+					],
+					[
+						"wdzl",
+						"js\\modules\\testate\\wdzl.js"
+					],
+					[
+						"request",
+						"js\\common\\request.js"
+					],
+					[
+						"smu",
+						"frozenui\\estate\\choujiang\\javascripts\\common\\smUtil.js"
+					],
+					[
+						"youhuixinxi",
+						"js\\modules\\testate\\youHuiXinXi.js"
+					],
+					[
+						"rcon",
+						"frozenui\\estate\\choujiang\\javascripts\\require.config.js"
+					],
+					[
+						"stylesheets/views/lottery/index.css",
+						"frozenui\\estate\\choujiang\\stylesheets\\views\\lottery\\index.css"
+					],
+					[
+						"recon",
+						"frozenui\\estate\\choujiang\\javascripts\\require.config.js"
+					],
+					[
+						"base",
+						"frozenui\\estate\\choujiang\\stylesheets\\base.css"
+					],
+					[
+						"util",
+						"frozenui\\estate\\choujiang\\javascripts\\common\\smUtil.js"
+					],
+					[
+						"ze",
+						"frozenui\\estate\\choujiang\\javascripts\\libs\\zepto\\zepto.amd.js"
+					],
+					[
+						"rec",
+						"frozenui\\estate\\choujiang\\javascripts\\require.config.js"
+					],
+					[
+						"choujiang/stylesheets/views/lottery/index.css",
+						"frozenui\\estate\\choujiang\\stylesheets\\views\\lottery\\index.css"
+					],
+					[
+						"su",
+						"frozenui\\estate\\choujiang\\javascripts\\common\\smUtil.js"
+					],
+					[
+						"smuti",
+						"frozenui\\estate\\choujiang\\javascripts\\common\\smUtil.js"
+					],
+					[
+						"index.js",
+						"frozenui\\estate\\choujiang\\javascripts\\views\\lottery\\index_bck.js"
+					],
+					[
+						"reconfig",
+						"frozenui\\estate\\choujiang\\javascripts\\require.config.js"
+					],
+					[
+						"base.css",
+						"frozenui\\estate\\choujiang\\stylesheets\\base.css"
+					],
+					[
+						"choujiangindex.js",
+						"frozenui\\estate\\choujiang\\javascripts\\views\\lottery\\index.js"
+					],
+					[
+						"choujiangindex.css",
+						"frozenui\\estate\\choujiang\\stylesheets\\views\\lottery\\index.css"
+					],
+					[
+						"index.css",
+						"choujiang\\stylesheets\\views\\lottery\\index.css"
+					],
+					[
+						"config",
+						"js\\common\\config.js"
+					],
+					[
+						"indexjs",
+						"choujiang\\javascripts\\views\\lottery\\index.min.js"
+					],
+					[
+						"art",
+						"javascripts\\common\\artTemplateConfig.js"
+					],
+					[
+						"javascripts/views/lottery/index",
+						"javascripts\\views\\lottery\\index.js"
+					],
+					[
+						"index.html",
+						"index.html"
+					],
+					[
+						"include/footer.html",
+						"include\\footer.html"
+					],
+					[
+						"include/header.html",
+						"include\\header.html"
+					],
+					[
+						"common/storage",
+						"js\\common\\storage.js"
+					],
+					[
+						"comm",
+						"js\\common\\common.js"
+					],
+					[
+						"sea",
+						"js\\sea.config.js"
+					],
+					[
+						"include/nav",
+						"js\\include\\nav.js"
+					],
+					[
+						"include/nav.html",
+						"include\\nav.html"
+					],
+					[
+						"commindex",
+						"microcity\\community\\index.html"
+					],
+					[
+						"selfplatform/index",
+						"js\\modules\\selfplatform\\index.js"
+					],
+					[
+						"index",
+						"index.html"
+					],
+					[
+						"community/ownerstatistics",
+						"js\\modules\\community\\ownerStatistics.js"
+					],
+					[
+						"community/complaintsstatistics",
+						"js\\modules\\community\\complaintsStatistics.js"
+					],
+					[
+						"cindex.js",
+						"js\\modules\\community\\index.js"
+					],
+					[
+						"cindex",
+						"microcity\\community\\index.html"
+					],
+					[
+						"javascripts/views/demo",
+						"javascripts\\views\\demo.js"
+					],
+					[
+						"cripts/views/activity/activity_list",
+						"javascripts\\views\\activity\\activity_list.js"
+					],
+					[
+						"topic",
+						"content\\views\\topic\\topic_list.jsp"
+					],
+					[
+						"req",
+						"javascripts\\require.config.js"
+					],
+					[
+						"confgi",
+						"javascripts\\common\\config.js"
+					],
+					[
+						"javascripts/require.config.js",
+						"javascripts\\require.config.js"
+					],
+					[
+						"indexs",
+						"microcity\\estate\\indexStatistics.html"
+					],
+					[
+						"selfplatform/index.",
+						"js\\modules\\selfplatform\\index.js"
+					],
+					[
+						"adalliance/newusersanalysis.html",
+						"microcity\\adAlliance\\newUsersAnalysis.html"
+					],
+					[
+						"class",
+						"js\\data\\nav\\userClass0.json"
+					],
+					[
+						"adsense/newusersanalysis",
+						"js\\modules\\adsense\\newUsersAnalysis.js"
+					],
+					[
+						"adsense/newusersanalysis.html",
+						"microcity\\adsense\\newUsersAnalysis.html"
+					],
+					[
+						"adsense/newusersanalysis.js",
+						"js\\modules\\adsense\\newUsersAnalysis.js"
+					],
+					[
+						"boo",
+						"css\\bootstrap\\bootstrap.css"
+					],
+					[
+						"selfplatform/usersanalysis",
+						"js\\modules\\selfplatform\\usersAnalysis.js"
+					],
+					[
+						"user",
+						"js\\modules\\estate\\userStatistics.js"
+					],
+					[
+						"modules/selfplatform/index",
+						"js\\modules\\selfplatform\\index.js"
+					],
+					[
+						"microcity/selfplatform/index.html",
+						"microcity\\selfplatform\\index.html"
+					],
+					[
+						"mallcjs",
+						"js\\modules\\mallcenter\\index.js"
+					],
+					[
+						"modules/adsense/index",
+						"js\\modules\\adsense\\index.js"
+					],
+					[
+						"adsindex",
+						"microcity\\adsense\\index.html"
+					],
+					[
+						"mallcenter/parkingfeeanalysis",
+						"js\\modules\\mallcenter\\parkingFeeAnalysis.js"
+					],
+					[
+						"mallcenter/trafficanalysis",
+						"js\\modules\\mallcenter\\trafficAnalysis.js"
+					],
+					[
+						"mallcenter/registeredusersanalysis",
+						"js\\modules\\mallcenter\\registeredUsersAnalysis.js"
+					],
+					[
+						"mallcenter/trafficdensitystatistics",
+						"js\\modules\\mallcenter\\trafficDensityStatistics.js"
+					],
+					[
+						"modules/mallcenter/mall",
+						"js\\modules\\mallcenter\\mall.js"
+					],
+					[
+						"",
+						"js\\modules\\mallcenter\\registeredUsersAnalysis.js"
+					],
+					[
+						"modules/mallcenter/registeredusersanalysis",
+						"js\\modules\\mallcenter\\registeredUsersAnalysis.js"
+					],
+					[
+						"congi",
+						"js\\common\\config.js"
+					],
+					[
+						"modules/mallcenter/index",
+						"js\\modules\\mallcenter\\index.js"
+					],
+					[
+						"mallcenter/index.html",
+						"microcity\\mallcenter\\index.html"
+					],
+					[
+						"ionicons",
+						"css\\ionicons\\ionicons.css"
+					],
+					[
+						"nav.",
+						"include\\nav.html"
+					],
+					[
+						"nav",
+						"js\\include\\nav.js"
+					],
+					[
+						"cl",
+						"js\\data\\nav\\userClass0.json"
+					],
+					[
+						"pages/ui/icons.html",
+						"AdminLTE\\pages\\UI\\icons.html"
+					],
+					[
+						"selfplatform/shopoperationsanalysis",
+						"js\\modules\\selfplatform\\shopOperationsAnalysis.js"
+					],
+					[
+						"foo",
+						"include\\footer.html"
+					],
+					[
+						"microcity/selfplatform/trafficanalysis.html",
+						"microcity\\selfplatform\\trafficAnalysis.html"
+					],
+					[
+						"newusersanalysis.",
+						"js\\modules\\newUsersAnalysis.js"
+					],
+					[
+						"modules/selfplatform/trafficanalysis",
+						"js\\modules\\selfplatform\\trafficAnalysis.js"
+					],
+					[
+						"selfplatform/trafficanalysis.html",
+						"microcity\\selfplatform\\trafficAnalysis.html"
+					],
+					[
+						"shop",
+						"microcity\\selfplatform\\shopOperationsAnalysis.html"
+					],
+					[
+						"app",
+						"js\\plugins\\adminlte\\app.cmd.js"
+					],
+					[
+						"selfplatform/newusersstatistics.html",
+						"microcity\\selfplatform\\newUsersStatistics.html"
+					],
+					[
+						"modules/activeusersanalysis",
+						"js\\modules\\activeUsersAnalysis.js"
+					],
+					[
+						"modules/newusersanalysis",
+						"js\\modules\\newUsersAnalysis.js"
+					],
+					[
+						"microcity/newusersanalysis.html",
+						"microcity\\newUsersAnalysis.html"
+					],
+					[
+						"microcity/activeusersanalysis.html",
+						"microcity\\activeUsersAnalysis.html"
+					],
+					[
+						"se",
+						"js\\sea.config.js"
+					],
+					[
+						"shopoperationsanalysis",
+						"microcity\\selfplatform\\shopOperationsAnalysis.html"
+					],
+					[
+						"selfplatform/trafficanalysis",
+						"js\\modules\\selfplatform\\trafficAnalysis.js"
+					],
+					[
+						"heatmap",
+						"js\\plugins\\heatmap\\heatmap.cmd.min.js"
+					],
+					[
+						"modules/selfplatform/shopoperationsanalysis",
+						"js\\modules\\selfplatform\\shopOperationsAnalysis.js"
+					],
+					[
+						"selfplatform/shopoperationsanalysis.html",
+						"microcity\\selfplatform\\shopOperationsAnalysis.html"
+					],
+					[
+						"modules/mallcenter/trafficdensitystatistics",
+						"js\\modules\\mallcenter\\trafficDensityStatistics.js"
+					],
+					[
+						"trafficde",
+						"microcity\\mallcenter\\trafficDensityStatistics.html"
+					],
+					[
+						"empty",
+						"js\\plugins\\echarts\\map\\emptyMap.js"
+					],
+					[
+						"shopoperationsanalysis.js",
+						"js\\modules\\selfplatform\\shopOperationsAnalysis.js"
+					],
+					[
+						"mallcenter/trafficdensitystatistics.html",
+						"microcity\\mallcenter\\trafficDensityStatistics.html"
+					],
+					[
+						"echarts",
+						"js\\plugins\\echarts\\echarts.cmd.min.js"
+					],
+					[
+						"activeusersanalysis",
+						"js\\modules\\activeUsersAnalysis.js"
+					],
+					[
+						"microcity/activeusersanalysis",
+						"microcity\\activeUsersAnalysis.html"
+					],
+					[
+						"usersas",
+						"js\\modules\\selfplatform\\usersAnalysis.js"
+					],
+					[
+						"selfplatform/newusersstatistics",
+						"js\\modules\\selfplatform\\newUsersStatistics.js"
+					],
+					[
+						"selfplatform/usersanalysis.html",
+						"microcity\\selfplatform\\usersAnalysis.html"
+					],
+					[
+						"daterangepicker",
+						"js\\plugins\\bootstrap-daterangepicker\\daterangepicker.cmd.js"
+					],
+					[
+						"modules/selfplatform/newusersstatistics",
+						"js\\modules\\selfplatform\\newUsersStatistics.js"
+					],
+					[
+						"boot",
+						"css\\bootstrap\\bootstrap.css"
+					],
+					[
+						"adsense/advertisingconditions.html",
+						"microcity\\adsense\\advertisingConditions.html"
+					],
+					[
+						"pusersanalysis.html",
+						"microcity\\selfplatform\\usersAnalysis.html"
+					],
+					[
+						"submit_userstatistics.js",
+						"js\\modules\\estate\\submit_userStatistics.js"
+					],
+					[
+						"microcity/mallcenter/index.html",
+						"microcity\\mallcenter\\index.html"
+					],
+					[
+						"sea.c",
+						"js\\sea.config.js"
+					],
+					[
+						"boots",
+						"css\\bootstrap\\bootstrap.css"
+					],
+					[
+						"pager",
+						"js\\plugins\\pager.cmd.js"
+					],
+					[
+						"template",
+						"js\\plugins\\arttemplate\\template.js"
+					],
+					[
+						"newusersa",
+						"microcity\\newUsersAnalysis.html"
+					],
+					[
+						"newusersanalysis",
+						"js\\modules\\newUsersAnalysis.js"
+					],
+					[
+						"userp",
+						"microcity\\adsense\\userPropertiesAnalysis.html"
+					],
+					[
+						"daterangepicker.cmd.min",
+						"js\\plugins\\bootstrap-daterangepicker\\daterangepicker.cmd.min.js"
+					],
+					[
+						"daterangepicker.cmd",
+						"js\\plugins\\bootstrap-daterangepicker\\daterangepicker.cmd.js"
+					],
+					[
+						"requ",
+						"js\\common\\request.js"
+					],
+					[
+						"advertisingconditions",
+						"js\\modules\\adsense\\advertisingConditions.js"
+					],
+					[
+						"userpropertiesanalysis",
+						"js\\modules\\adsense\\userPropertiesAnalysis.js"
+					],
+					[
+						"adperformanceanalysis",
+						"js\\modules\\adsense\\adPerformanceAnalysis.js"
+					],
+					[
+						"fill",
+						"js\\funs\\elem\\jsonFillElem.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 220.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 309,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
