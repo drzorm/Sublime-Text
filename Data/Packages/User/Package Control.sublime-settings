@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSSLint",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"JavaScript Completions",
+		"jQuery",
+		"JSHint",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"Terminal",
+		"Theme - Nil",
+		"TortoiseSVN",
+		"TypeScript",
+		"YUI Compressor"
+	]
+}
